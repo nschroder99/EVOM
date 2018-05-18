@@ -1,0 +1,33 @@
+playerArm.png
+size: 496, 116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armLeft
+  rotate: false
+  xy: 1, 1
+  size: 114, 82
+  orig: 512, 512
+  offset: 191, 223
+  index: 0
+armLeft1
+  rotate: false
+  xy: 117, 1
+  size: 130, 114
+  orig: 512, 512
+  offset: 175, 207
+  index: 1
+armRight
+  rotate: false
+  xy: 249, 1
+  size: 114, 82
+  orig: 512, 512
+  offset: 207, 223
+  index: 0
+armRight1
+  rotate: false
+  xy: 365, 1
+  size: 130, 114
+  orig: 512, 512
+  offset: 207, 207
+  index: 1

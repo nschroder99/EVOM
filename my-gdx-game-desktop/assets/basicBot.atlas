@@ -1,0 +1,256 @@
+basicBot-0.png
+size: 1937, 1872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mainBotDeath
+  rotate: false
+  xy: 1, 1
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 0
+mainBotDeath
+  rotate: false
+  xy: 277, 1
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 1
+mainBotDeath
+  rotate: false
+  xy: 553, 1
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 2
+mainBotDeath
+  rotate: false
+  xy: 829, 1
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 3
+mainBotDeath
+  rotate: false
+  xy: 1105, 1
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 4
+mainBotDeath
+  rotate: false
+  xy: 1381, 1
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 5
+mainBotDeath
+  rotate: false
+  xy: 1657, 1
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 6
+mainBotDeath
+  rotate: false
+  xy: 1, 469
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 7
+mainBotDeath
+  rotate: false
+  xy: 277, 469
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 8
+mainBotDeath
+  rotate: false
+  xy: 553, 469
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 9
+mainBotDeath
+  rotate: false
+  xy: 829, 469
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 10
+mainBotDeath
+  rotate: false
+  xy: 1105, 469
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 11
+mainBotDeath
+  rotate: false
+  xy: 1381, 469
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 12
+mainBotDeath
+  rotate: false
+  xy: 1657, 469
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 13
+mainBotDeath
+  rotate: false
+  xy: 1, 937
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 14
+mainBotDeath
+  rotate: false
+  xy: 277, 937
+  size: 274, 386
+  orig: 512, 512
+  offset: 111, 31
+  index: 15
+mainBotDeath
+  rotate: false
+  xy: 553, 937
+  size: 274, 370
+  orig: 512, 512
+  offset: 111, 31
+  index: 16
+mainBotDeath
+  rotate: false
+  xy: 829, 937
+  size: 3, 3
+  orig: 512, 512
+  offset: 0, 509
+  index: 17
+mainBotDeath
+  rotate: false
+  xy: 829, 937
+  size: 3, 3
+  orig: 512, 512
+  offset: 0, 509
+  index: 18
+mainBotDeath
+  rotate: false
+  xy: 829, 937
+  size: 3, 3
+  orig: 512, 512
+  offset: 0, 509
+  index: 19
+mainBotDeath
+  rotate: false
+  xy: 829, 937
+  size: 3, 3
+  orig: 512, 512
+  offset: 0, 509
+  index: 20
+mainBotDeath
+  rotate: false
+  xy: 829, 937
+  size: 3, 3
+  orig: 512, 512
+  offset: 0, 509
+  index: 21
+mainBotDeath
+  rotate: false
+  xy: 829, 937
+  size: 3, 3
+  orig: 512, 512
+  offset: 0, 509
+  index: 22
+mainBotWalkingLeft
+  rotate: false
+  xy: 834, 937
+  size: 274, 450
+  orig: 512, 512
+  offset: 127, 31
+  index: 1
+mainBotWalkingLeft
+  rotate: false
+  xy: 1110, 937
+  size: 274, 450
+  orig: 512, 512
+  offset: 127, 31
+  index: 2
+mainBotWalkingLeft
+  rotate: false
+  xy: 1386, 937
+  size: 274, 466
+  orig: 512, 512
+  offset: 127, 31
+  index: 3
+mainBotWalkingLeft
+  rotate: false
+  xy: 1662, 937
+  size: 274, 466
+  orig: 512, 512
+  offset: 127, 31
+  index: 4
+mainBotWalkingLeft
+  rotate: false
+  xy: 1, 1405
+  size: 274, 466
+  orig: 512, 512
+  offset: 127, 31
+  index: 5
+mainBotWalkingRight
+  rotate: false
+  xy: 277, 1405
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 0
+mainBotWalkingRight
+  rotate: false
+  xy: 553, 1405
+  size: 274, 450
+  orig: 512, 512
+  offset: 111, 31
+  index: 1
+mainBotWalkingRight
+  rotate: false
+  xy: 829, 1405
+  size: 274, 450
+  orig: 512, 512
+  offset: 111, 31
+  index: 2
+mainBotWalkingRight
+  rotate: false
+  xy: 1105, 1405
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 3
+mainBotWalkingRight
+  rotate: false
+  xy: 1381, 1405
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 4
+mainBotWalkingRight
+  rotate: false
+  xy: 1657, 1405
+  size: 274, 466
+  orig: 512, 512
+  offset: 111, 31
+  index: 5
+
+basicBot-1.png
+size: 276, 468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mainBotWalkingWalkingLeft
+  rotate: false
+  xy: 1, 1
+  size: 274, 466
+  orig: 512, 512
+  offset: 127, 31
+  index: 0

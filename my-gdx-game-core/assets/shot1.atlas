@@ -1,0 +1,40 @@
+shot1.png
+size: 980, 180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shot1
+  rotate: false
+  xy: 1, 1
+  size: 194, 178
+  orig: 512, 512
+  offset: 159, 159
+  index: 0
+shot1
+  rotate: false
+  xy: 197, 1
+  size: 194, 178
+  orig: 512, 512
+  offset: 159, 159
+  index: 1
+shot1
+  rotate: false
+  xy: 393, 1
+  size: 194, 178
+  orig: 512, 512
+  offset: 159, 159
+  index: 2
+shot1
+  rotate: false
+  xy: 589, 1
+  size: 194, 178
+  orig: 512, 512
+  offset: 159, 159
+  index: 3
+shot1
+  rotate: false
+  xy: 785, 1
+  size: 194, 178
+  orig: 512, 512
+  offset: 159, 159
+  index: 4

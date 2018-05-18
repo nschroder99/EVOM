@@ -1,0 +1,47 @@
+redShot.png
+size: 244, 1560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leftRedShot
+  rotate: false
+  xy: 1, 1
+  size: 242, 258
+  orig: 512, 512
+  offset: 159, 143
+  index: 0
+leftRedShot
+  rotate: false
+  xy: 1, 261
+  size: 242, 258
+  orig: 512, 512
+  offset: 159, 143
+  index: 1
+leftRedShot
+  rotate: false
+  xy: 1, 521
+  size: 242, 258
+  orig: 512, 512
+  offset: 159, 143
+  index: 2
+rightRedShot
+  rotate: false
+  xy: 1, 781
+  size: 242, 258
+  orig: 512, 512
+  offset: 111, 143
+  index: 0
+rightRedShot
+  rotate: false
+  xy: 1, 1041
+  size: 242, 258
+  orig: 512, 512
+  offset: 111, 143
+  index: 1
+rightRedShot
+  rotate: false
+  xy: 1, 1301
+  size: 242, 258
+  orig: 512, 512
+  offset: 111, 143
+  index: 2
